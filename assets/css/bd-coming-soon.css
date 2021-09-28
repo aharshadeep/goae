@@ -35,7 +35,8 @@ body {
 .page-title {
   font-size: 50px;
   font-weight: bold;
-  margin-bottom: 6px; }
+  margin-top:100px
+  margin-bottom: 10px; }
   @media (max-width: 767px) {
     .page-title {
       font-size: 35px;
@@ -44,7 +45,7 @@ body {
 .page-description {
   min-width: 665px;
   font-size: 18px;
-  margin-bottom: 59px; }
+  margin-top: 250px; }
   @media (max-width: 767px) {
     .page-description {
       font-size: 14px; } }
